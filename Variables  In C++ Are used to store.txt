@@ -1,0 +1,39 @@
+Variables >>>> In C++ Are used to store data and manipulated through a program.
+
+Data Types in C++
+Data types help the complier allocate the appropriate amount of memory and determine how to interpret the data.
+int >>>>  These are used to store integer values (whole number) 
+i.e 1,2,3,4,
+
+float>>> Used to store Decimal values (single Precision) >>> i.e  10.4 ,7.7
+
+double >>>(double precision) i.e 10.777 , 5.764
+
+char >>> Used to store a single character i.e A , D.
+
+string >> Is a Sequence of Characters i.e "Hello" >>> 'Hello' >>> "Hello"
+
+Operators in C++ 
+1.Arth Op>>
+>>  (+ , - , * , / , % )
+
+2.Relational Op 
+>>. (= , > , < , >= , <= , !=)
+
+3.Logical Op 
+>>. (and , or , not ) 
+
+
+    // Logical Operators
+    cout << "Logical AND: " << (a > 0 && b > 0) << endl; // &&
+    cout << "Logical OR: " << (a > 0 || b < 0) << endl;  // ||
+    cout << "Logical NOT: " << !(a > 0) << endl;          // !
+
+
+
+
+
+
+
+
+
